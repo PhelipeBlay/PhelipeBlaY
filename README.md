@@ -27,7 +27,7 @@
 <div align="center">
 
 <!-- Troque pelos ícones da sua stack — veja mais em https://skillicons.dev -->
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,,,vercel,github" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,vercel,github" />
 
 </div>
 
