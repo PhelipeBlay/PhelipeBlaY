@@ -12,7 +12,7 @@
 
 <br/>
 
-## 👋 Olá, eu sou o(a) Phelipe Blay
+## 👋 Olá, eu sou o Phelipe Blay
 
 
 - 🌱 Aprendendo **Python, JavaScript, Node, TypeScript, React, Tailwind, Next, MySQL, MongoDB, Docker, GIT, API e Prisma**
