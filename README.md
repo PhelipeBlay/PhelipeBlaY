@@ -39,7 +39,7 @@
 
 Aberto para oportunidades em **Estágio**, **Dev Jr** e **Analista**.
 
-📧 phelipe.avel@gmail.com &nbsp;|&nbsp; 📱 (16) 98138-1547 &nbsp;|&nbsp; 🔗 LinkedIn(https://linkedin.com/in/phelipeblay)
+📧 phelipe.avel@gmail.com &nbsp;|&nbsp; 📱 (16) 98138-1547 &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/phelipeblay)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:38BDF8&height=100&section=footer" width="100%"/>
